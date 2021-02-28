@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BlackJack</string>
+    <string name="clear">CLEAR</string>
+    <string name="deal">DEAL</string>
+    <string name="hit">HIT</string>
+    <string name="stand">STAND</string>
+    <string name="balance">Balance : $ </string>
+    <string name="bet">Bet : $ </string>
+    <string name="busted">You are busted. Dealer WON!</string>
+    <string name="blackJackWin">Black Jack! You WON!</string>
+    <string name="dealerBusted">Dealer has busted. YOU WON!</string>
+    <string name="dealerWin">Dealer WON!</string>
+    <string name="playerWin">Player WON!</string>
+    <string name="push">PUSH!</string>
+    <string name="notEnoughBalance">Not enough balance!</string>
+</resources>
